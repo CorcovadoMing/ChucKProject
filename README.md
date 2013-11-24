@@ -1,7 +1,7 @@
 sound
 =====
 
-# Sound implementation in ChucK
+### Sound implementation in ChucK
 
 use
 ```
