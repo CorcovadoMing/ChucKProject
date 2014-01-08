@@ -4,7 +4,7 @@ Mandolin bass => NRev r => dac;
 0.01 => bass.stringDamping;
 0.01 => bass.stringDetune;
 0.07 => bass.bodySize;
-0.9 => bass.gain;
+0.5 => bass.gain;
 
 BPM tempo;
 
